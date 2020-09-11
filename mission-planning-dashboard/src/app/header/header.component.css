@@ -1,0 +1,11 @@
+
+.boringtext {
+    font-family: 'Jost', sans-serif;
+    color: darkcyan;
+    font-weight: 500px;
+}
+
+.fancytext {
+    font-family: 'Raleway', sans-serif;
+    color: blueviolet;
+}
